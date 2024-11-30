@@ -1,0 +1,4 @@
+ultralytics
+kagglehub
+scikit-learn
+pillow

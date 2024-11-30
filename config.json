@@ -1,0 +1,12 @@
+{
+    "dataset": "./datasets/cub2002011/cub2002011/CUB_200_2011",
+    "output_dir": "./datasets/cub2002011",
+    "split_dir": "./datasets/images_split",
+    "train_dir": "./datasets/images_split/train",
+    "test_dir": "./datasets/images_split/test",
+    "epochs": 30,
+    "imgsz": 640,
+    "model_dir": "./models",
+    "example_image": "./images/example.jpg",
+    "output_image": "./images/output_image.jpg"
+}
